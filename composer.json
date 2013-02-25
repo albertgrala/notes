@@ -1,0 +1,24 @@
+{
+    "name": "albertgrala/notes",
+    "description": "Easy Notes Managment for Laravel 4. Json file notes.json",
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x-dev",
+        "symfony/console": "2.2.x-dev"
+    },
+    "authors": [
+        {
+            "name": "Albert Gracia",
+            "email": "albertgrala@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/commands"
+        ],
+        "psr-0": {
+            "Albertgrala\\Notes": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
