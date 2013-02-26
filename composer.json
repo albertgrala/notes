@@ -1,6 +1,6 @@
 {
     "name": "albertgrala/notes",
-    "description": "Easy Notes Managment for Laravel 4. Json file notes.json",
+    "description": "Easy Notes Management for Laravel 4.",
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.0.x-dev",
