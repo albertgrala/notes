@@ -185,3 +185,7 @@ The `notes.json` has the following structure
   ]
 }
 ```
+
+## Screenshot
+
+![alt text](https://raw.github.com/albertgrala/notes/master/screenshot.gif "Notes Screenshot")
